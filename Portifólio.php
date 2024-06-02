@@ -26,7 +26,7 @@
                         <p>Contact Me</p>
                         <ul class='no-bullets'>
                             <li>Email: jeangabriel0990@gmail.com</li>
-                            <li><a href="https://www.linkedin.com/in/jean-gabriel-henicka-tormes-0482382ab/" target="_blank">LinkedIN</a></li>
+                            <li><a rel="noopener" href="https://www.linkedin.com/in/jean-gabriel-henicka-tormes-0482382ab/" target="_blank">LinkedIN</a></li>
                             <p>Or</p>
                             <li><a href="./Contato.php" class="link">Send a FeedBack</a></li>
                         </ul>
