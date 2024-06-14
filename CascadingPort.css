@@ -146,10 +146,6 @@ p {
     text-shadow: 0 0 12px rgb(128, 128, 128);
     padding: 10px;
     justify-content: center;
-    justify-content: center;
-    justify-items: center;
-    justify-tracks: center;
-    justify-self: center;
 }
 
 fieldset{
