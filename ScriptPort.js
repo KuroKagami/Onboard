@@ -10,7 +10,7 @@ function validateForm() {
   } 
 
   if (a == "") {
-    alert ("Mensagem Enviada com Sucesso");
+    alert ("Mensagem Enviada com Sucesso!");
   } else {
     alert ("Mensagem Enviada com Sucesso");
   }
